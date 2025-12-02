@@ -1,0 +1,19 @@
+body{
+    background-color: #4cc4ff;
+    margin: 0;
+}
+header{
+    background-color: #1c2d8d;
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+    color: orangered;
+    font-family: sans-serif, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    font-size: large;
+    background-color: #19467a;
+    padding: 10px;
+    border-radius: 15px;
+    border: 1px solid orangered;
+}
